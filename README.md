@@ -1,11 +1,11 @@
 FlickrTools
 ===========
 
-This is a collection of GreaseMonkey script for Flickr, helping to interact with a ipernity account :
+This is a collection of GreaseMonkey scripts for Flickr website, helping to interact with an ipernity account:
 - import all your photos from Flickr to ipernity
-- import one by one your Flickr photos to ipernity.
+- import one by one your Flickr photos to ipernity
 - import a Flickr set to an ipernity album
-- invite your Flickr contacts to get an ipernity account
+- invite your Flickr contacts to create an ipernity account
 
 
 Thanks to :
